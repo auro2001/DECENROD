@@ -1,0 +1,21 @@
+.owner{
+    color:"white";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    overflow-wrap: break-word;;
+}
+
+.contract-details{
+    float:right;
+    margin-right: 20px;
+    width:330px;
+    height:170px;
+    background: rgb(9,227,252);
+    background: linear-gradient(90deg, rgba(9,227,252,1) 0%, rgba(215,99,99,1) 35%, rgba(217,255,97,1) 100%);
+    border-radius:8px;
+    padding:20px 20px 20px 20px;
+   
+}
+.wal{
+    width: 30px;
+}
